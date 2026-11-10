@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime artifacts
+*.log
+*.out
+*.pid
+nohup.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large training dataset caches (not needed for test evaluation)
+cache_images.npy
+data_X.npy
+cache_features_1280.npy
+
+# Environment directories
+.venv/
+env/
+venv/
+ENV/
+
+# Oversized model artifact; distribute as a GitHub Release asset
+pc_health_classifier/svm_model.pkl
