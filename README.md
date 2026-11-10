@@ -153,6 +153,12 @@ The PC health training pipeline is not included. `main_script.py` evaluates the 
 
 ---
 
+
+### Previous Work – Acacia senegal (AS) Model
+
+The earlier implementation of the **Acacia senegal (AS) plant health classification model** is available in the [CDRF_ASenegal_MLImaging GitHub Repository](https://github.com/softwareinnovationslabBITS/CDRF_ASenegal_MLImaging). This repository documents the previous AS-specific model development and serves as a reference for the current project, which extends the plant health classification framework to include both *Acacia senegal* and *Prosopis cineraria*.
+
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the repository's `LICENSE` file for the full text.
